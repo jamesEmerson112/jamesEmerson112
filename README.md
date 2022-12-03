@@ -1,6 +1,10 @@
 ### (っ＾▿＾)💨 jamesEmerson112
+<br/>
 
 **`Full-stack Developer`**
+<br/>
+<br/>
+
 
 🤔 I am a full-stack developer building my version of the hacking world one step at a time. My name is James Emerson Vo (An T. Vo) and I just graduated from Hack Reactor’s advanced software engineering immersive after completing my Bachelor of Science in Computer Science.
 
@@ -9,6 +13,8 @@
 🔭 I genuinly believe AR is going to be the leading tech after EVs. If there may be any similar role, please count me in.
 
 📫 If you are curious about me, I would love to learn more about you via james.emerson.vo.2503@gmail.com
+<br/>
+<br/>
 
 
 **`Tech I am passionate about`**
@@ -20,8 +26,10 @@
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
 </div>
+<br/>
 
-**`Tech I am passionate about`**
+
+**`My Github stats`**
 
 <div style="display: flex; ">
   <img src="https://github-readme-stats.vercel.app/api?username=jamesEmerson112&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="James's GitHub stats" height="229" />
@@ -31,9 +39,14 @@
 <div style="display: flex; ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesEmerson112&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="229" />
 </div>
+<br/>
+<br/>
+
 
 **`My characters`**
-
+<div>
+  <img src="https://user-images.githubusercontent.com/36806380/205413241-9537be31-bd86-41be-a9b5-7dad6b950a53.png" alt="Top Languages" height="229" />
+<div>
 
 <!--
 **jamesEmerson112/jamesEmerson112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

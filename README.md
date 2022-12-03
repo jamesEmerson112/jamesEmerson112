@@ -23,7 +23,14 @@
 
 **`Tech I am passionate about`**
 
-[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesEmerson112)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; ">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamesEmerson112&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="James's GitHub stats" height="229" />
+
+</div>
+
+<div style="display: flex; ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesEmerson112&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="229" />
+</div>
 
 **`My characters`**
 

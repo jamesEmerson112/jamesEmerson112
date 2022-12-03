@@ -12,7 +12,7 @@
 
 🔭 I genuinly believe AR is going to be the leading tech after EVs. If there may be any similar role, please count me in.
 
-📫 If you are curious about me, I would love to learn more about you via james.emerson.vo.2503@gmail.com
+📫 If you are curious about me, I would love to learn more about you via james.emerson.vo.2503@gmail.com or https://www.linkedin.com/in/james-vo/
 <br/>
 <br/>
 

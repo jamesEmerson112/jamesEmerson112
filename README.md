@@ -7,7 +7,6 @@
 
 🔭 Based in San Francisco, CA
 
-<br/>
 <h2>Languages and Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />

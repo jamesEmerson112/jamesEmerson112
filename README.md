@@ -1,8 +1,8 @@
 Hi there! I'm An Thien Vo (James Emerson Vo)
 <br/>
 --------------------------------------------------------
-<a href="https://www.linkedin.com/in/whitelisab/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/349d4ee21811d5fe1f4c97ceb303f9cc33c46375e7585d27621e4e646fc1c4b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77686974656c697361622532302d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f77686974656c697361622f" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/james-vo%20-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/james-vo/" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/james-vo/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/349d4ee21811d5fe1f4c97ceb303f9cc33c46375e758https://www.linkedin.com/in/james-vo/5d27621e4e646fc1c4b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77686974656c697361622532302d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f77686974656c697361622f" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/james-vo%20-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/james-vo/" style="max-width: 100%;"></a>
 
 
 🤔 I am a full-stack developer building my version of the hacking world one step at a time. My name is James Emerson Vo (An T. Vo) and I just graduated from Hack Reactor’s advanced software engineering immersive after completing my Bachelor of Science in Computer Science.

@@ -1,4 +1,4 @@
-<h1>Hi there! I'm An Thien Vo (James Emerson Vo) (james.emerson.vo.2503@gmail.com)</h1>
+<h1>Hi there! I'm James Emerson Vo (An Thien Vo) (james.emerson.vo.2503@gmail.com)</h1>
 
 [![Linkedin: james-vo](https://img.shields.io/badge/-jamesvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-vo/)](https://www.linkedin.com/in/james-vo/)
 [![Github: jamesEmerson112](https://img.shields.io/badge/-jamesEmerson112-black?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/james-vo/(https://github.com/jamesEmerson112))]((https://github.com/jamesEmerson112))

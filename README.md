@@ -3,9 +3,15 @@
 [![Linkedin: james-vo](https://img.shields.io/badge/-jamesvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-vo/)](https://www.linkedin.com/in/james-vo/)
 [![Github: jamesEmerson112](https://img.shields.io/badge/-jamesEmerson112-black?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/james-vo/(https://github.com/jamesEmerson112))]((https://github.com/jamesEmerson112))
 
-🤔 Love playing sports
+🤔 Champion of Basketbal 5v5 Instramural Greek Life at University of Nevada, Las Vegas
 
-🔭 Based in San Francisco, CA
+Experienced player in Squad (50 vs. 50 simulated battlefield). Squad lead at over 50+ matches. Commander at 10+ matches
+
+Ex-President of Shine City volunteer. Vice-President of 25+ club members. Proud member of UNLV Buddies and ACM.
+
+Prompt Engineer since ChatGPT 3.0
+
+
 
 <h2>Languages and Tools</h2>
 <p>

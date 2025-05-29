@@ -3,7 +3,7 @@
 [![Linkedin: james-vo](https://img.shields.io/badge/-jamesvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-vo/)](https://www.linkedin.com/in/james-vo/)
 [![Github: jamesEmerson112](https://img.shields.io/badge/-jamesEmerson112-black?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/james-vo/(https://github.com/jamesEmerson112))]((https://github.com/jamesEmerson112))
 
-🤔 Champion of Basketbal 5v5 Instramural Greek Life at University of Nevada, Las Vegas
+Champion of Basketbal 5v5 Instramural Greek Life at University of Nevada, Las Vegas
 
 Experienced player in Squad (50 vs. 50 simulated battlefield). Squad lead at over 50+ matches. Commander at 10+ matches
 

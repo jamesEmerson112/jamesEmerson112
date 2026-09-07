@@ -1,5 +1,9 @@
 # Renders GitHub profile stats to github-metrics.svg and commits it back to this repo.
 # Requires repository secret METRICS_TOKEN: a classic GitHub PAT (no scopes needed for a public-only profile).
+# repositories_batch is 25 because GitHub's GraphQL gateway times out on the default 100-repo page for this
+# account, and v3.34 does not retry a failed first page, which leaves every repo-based plugin empty. v3.34 also
+# stops after the first page whenever a page is smaller than `repositories`, so `repositories` is set to match.
+# The habits plugin is off: GitHub's Events API no longer returns commits in push events and v3.34 crashes on that.
 name: Metrics
 on:
   schedule: [{cron: "0 12 * * *"}]
@@ -20,6 +24,8 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
           user: jamesEmerson112
+          repositories: 25
+          repositories_batch: 25
           template: classic
           base: "header, activity, community, repositories, metadata"
           config_timezone: America/Los_Angeles
@@ -27,8 +33,5 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_ignored: "html, css, jupyter notebook"
           plugin_languages_sections: "most-used"
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
